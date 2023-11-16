@@ -14,4 +14,4 @@
  ![image](https://user-images.githubusercontent.com/71864098/205936953-3df7dbfc-7aa3-4631-a7d1-8b4bfb986e0e.png)
 
 
- Link do projeto: https://spotify-tawny.vercel.app/
+ Link do projeto: https://spotify-am214dq15-helenapl145.vercel.app/
